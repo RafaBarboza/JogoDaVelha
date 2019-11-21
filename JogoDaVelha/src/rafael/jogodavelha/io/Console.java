@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 
 
 /**
- * Classe utilitária para ler dados do console 
+ * Classe utilitária para ler dados do console  
  */
 public class Console {
 

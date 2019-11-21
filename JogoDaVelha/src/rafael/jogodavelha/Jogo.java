@@ -9,7 +9,7 @@ import rafael.jogodavelha.pontuacao.GerenciadorPontuacaoArquivo;
 
 
 /**
- * Possui a lógica do jogo 
+ * Possui a lógica do jogo  
  */
 public class Jogo {
 	/**

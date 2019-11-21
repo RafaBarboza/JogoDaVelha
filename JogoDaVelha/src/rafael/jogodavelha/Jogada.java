@@ -3,7 +3,7 @@ package rafael.jogodavelha;
 public class Jogada {
 	
 	/**
-	 * Posição i da matriz relacionada à jogada (linha) 
+	 * Posição i da matriz relacionada à jogada (linha)  
 	 */
 	private int i;
 	

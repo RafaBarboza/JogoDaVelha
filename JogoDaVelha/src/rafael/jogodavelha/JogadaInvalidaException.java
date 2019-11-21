@@ -1,7 +1,7 @@
 package rafael.jogodavelha;
 /**
  * Exceção que representa uma jogada inválida realizada pelo jogador 
- * @author rafa_
+ * @author rafa_ 
  *
  */
 public class JogadaInvalidaException extends JogoDaVelhaException{

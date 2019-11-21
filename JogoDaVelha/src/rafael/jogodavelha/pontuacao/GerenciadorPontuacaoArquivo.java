@@ -11,7 +11,7 @@ import java.util.Map;
 
 
 /**
- * Gerenciador de pontuação. Esta implementação armazena a pontuação em um arquivo. 
+ * Gerenciador de pontuação. Esta implementação armazena a pontuação em um arquivo.  
  */
 public class GerenciadorPontuacaoArquivo implements GerenciadorPontuacao{
 	

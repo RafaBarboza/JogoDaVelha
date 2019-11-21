@@ -3,7 +3,7 @@ package rafael.jogodavelha.pontuacao;
 /**
  * Interface utilizada para gerenciar a pontuação. Classes que implementam essa interface
  * devem implementar a lógica de como gravar e ler a pontuação. 
- * @author Rafael Barboza
+ * @author Rafael Barboza 
  *
  */
 public interface GerenciadorPontuacao{

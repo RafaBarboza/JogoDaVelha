@@ -6,7 +6,7 @@ package rafael.jogodavelha;
 public class Main {
 	
 	/**
-	 * Método main
+	 * Método main 
 	 * @param args 
 	 * @throws Exception
 	 */

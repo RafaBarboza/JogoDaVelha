@@ -7,7 +7,7 @@ package rafael.jogodavelha;
 public class Tabuleiro {
 
 	/**
-	 * Matriz que representa o jogo  
+	 * Matriz que representa o jogo   
 	 */
 	private char[][] matriz;
 

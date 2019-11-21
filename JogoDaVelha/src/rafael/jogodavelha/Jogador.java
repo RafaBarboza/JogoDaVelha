@@ -2,7 +2,7 @@ package rafael.jogodavelha;
 
 import rafael.jogodavelha.io.Console;
 
-/**
+/** 
  * Representa um jogador do jogo da velha 
  */
 public class Jogador {

@@ -3,7 +3,7 @@ import rafael.jogodavelha.JogoDaVelhaException;
 
 public class PontuacaoException extends JogoDaVelhaException {
 	
-	/**
+	/** 
 	 * @see JogoDaVelhaException#JogoDaVelhaException(String) 
 	 * @param message
 	 */
